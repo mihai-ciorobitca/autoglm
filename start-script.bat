@@ -1,0 +1,1 @@
+python main.py --base-url http://localhost:8000/v1 --model "autoglm-phone-9b-multilingual"
